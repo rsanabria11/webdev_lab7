@@ -37,3 +37,7 @@ body {
     background-repeat: no-repeat; /* Do not repeat the background */
     background-position: center; /* Center the background image */
 }
+.header-color {
+	color: hotpink;
+
+}
