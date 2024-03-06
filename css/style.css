@@ -33,10 +33,11 @@ td, th {
 
 body {
   
-   background-color: lightblue !important;
+   background-color: #73E6FF;
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
+   color: #e6add8;
 }
 .header-color {
 	color: hotpink;
