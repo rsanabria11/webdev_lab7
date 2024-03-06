@@ -30,3 +30,10 @@ td, th {
 		width: 300px; /* Set the width to 300 pixels */
     height: 300px; /* Maintain the aspect ratio */
 }
+
+body {
+    background-image: url('images/galaxy-background.png');
+    background-size: cover; /* Cover the entire viewport */
+    background-repeat: no-repeat; /* Do not repeat the background */
+    background-position: center; /* Center the background image */
+}
