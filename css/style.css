@@ -12,8 +12,8 @@ td, th {
 }
 .planet_1 {
 
-		width: 10px; /* Set the width to 300 pixels */
-    height: 10px; /* Maintain the aspect ratio */
+		width: 100px; /* Set the width to 300 pixels */
+    height: 100px; /* Maintain the aspect ratio */
     }
     .planet_2 {
 
