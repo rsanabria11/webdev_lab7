@@ -14,36 +14,20 @@ td, th {
 
 		width: 75px; /* Set the width to 300 pixels */
     height: 75px; /* Maintain the aspect ratio */
-    background-image: url('images/galaxy-background.jpg'); /* Set the background image */
-    background-size: cover; /* Cover the entire cell */
-    background-repeat: no-repeat; /* Do not repeat the background */
-    background-position: center; /* Center the background image */
    }
     .planet_2 {
 
 		width: 75px; /* Set the width to 300 pixels */
     height:75px; /* Maintain the aspect ratio */
-    background-image: url('images/galaxy-background.jpg'); /* Set the background image */
-    background-size: cover; /* Cover the entire cell */
-    background-repeat: no-repeat; /* Do not repeat the background */
-    background-position: center; /* Center the background image */
 	}
 	.planet_3 {
 
 		width: 75px; /* Set the width to 300 pixels */
     height: 75px; /* Maintain the aspect ratio */
-    background-image: url('images/galaxy-background.jpg'); /* Set the background image */
-    background-size: cover; /* Cover the entire cell */
-    background-repeat: no-repeat; /* Do not repeat the background */
-    background-position: center; /* Center the background image */
 	}
 	.planet_4 {
 
 		width: 75px; /* Set the width to 300 pixels */
     height: 75px; /* Maintain the aspect ratio */
-    background-image: url('images/galaxy-background.jpg'); /* Set the background image */
-    background-size: cover; /* Cover the entire cell */
-    background-repeat: no-repeat; /* Do not repeat the background */
-    background-position: center; /* Center the background image */
 }
 
