@@ -1,4 +1,12 @@
 td, th {
 	border: 1px solid;
   }
-  
+  .planet-table {
+  width: 100%;
+  border-collapse: collapse;
+	}
+
+	.planet-table th, .planet-table td {
+  border: 1px solid black;
+  padding: 8px;
+}
