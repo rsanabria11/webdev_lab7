@@ -7,8 +7,8 @@ td, th {
 	}
 
 		.planet-table th, .planet-table td {
-  border: 5px orange;
-  padding: 8px;
+  border: 7px pink;
+  padding: 7px;
 	}
 		.planet_1 {
 
@@ -29,4 +29,14 @@ td, th {
 
 		width: 75px; /* Set the width to 300 pixels */
     height: 75px; /* Maintain the aspect ratio */
+}
+
+.planet_1,
+.planet_2,
+.planet_3,
+.planet_4 {
+    background-image: url('images/galaxy-background.jpg'); /* Set the background image */
+    background-size: cover; /* Cover the entire cell */
+    background-repeat: no-repeat; /* Do not repeat the background */
+    background-position: center; /* Center the background image */
 }
