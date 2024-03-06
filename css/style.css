@@ -12,22 +12,21 @@ td, th {
 	}
 		.planet_1 {
 
-		width: 75px; /* Set the width to 300 pixels */
-    height: 75px; /* Maintain the aspect ratio */
+		width: 300px; /* Set the width to 300 pixels */
+    height: 300px; /* Maintain the aspect ratio */
    }
     .planet_2 {
 
-		width: 75px; /* Set the width to 300 pixels */
-    height:75px; /* Maintain the aspect ratio */
+		width: 300px; /* Set the width to 300 pixels */
+    height:300px; /* Maintain the aspect ratio */
 	}
 	.planet_3 {
 
-		width: 75px; /* Set the width to 300 pixels */
-    height: 75px; /* Maintain the aspect ratio */
+		width: 300px; /* Set the width to 300 pixels */
+    height: 300px; /* Maintain the aspect ratio */
 	}
 	.planet_4 {
 
-		width: 75px; /* Set the width to 300 pixels */
-    height: 75px; /* Maintain the aspect ratio */
+		width: 300px; /* Set the width to 300 pixels */
+    height: 300px; /* Maintain the aspect ratio */
 }
-
