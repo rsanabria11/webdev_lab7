@@ -31,11 +31,15 @@ td, th {
     height: 300px; /* Maintain the aspect ratio */
 }
 
-body {
-    background-image: url('images/galaxy-background.png');
+.body {
+    /*background-image: url('images/galaxy-background.png');
     background-size: cover; /* Cover the entire viewport */
-    background-repeat: no-repeat; /* Do not repeat the background */
-    background-position: center; /* Center the background image */
+    /*background-repeat: no-repeat; /* Do not repeat the background */
+   /* background-position: center; /* Center the background image */
+   background-color: lightblue;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 .header-color {
 	color: hotpink;
